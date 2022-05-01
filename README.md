@@ -1,2 +1,2 @@
-# making instagram like web
+# making instagram like
 html css javascript
