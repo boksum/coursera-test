@@ -1,2 +1,2 @@
-# coursera-test
-Coursera Test Repository
+# making instagram like web
+html css javascript
