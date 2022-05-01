@@ -1,2 +1,2 @@
-# making instagram like
-html css javascript
+# Python study
+
